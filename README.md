@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ShahriarPriyo
 - 👀 I’m interested in Web Development and data science
 - 🌱 I’m currently studying BSc in Software Engineering
--
 - 📫 How to reach me ... shahriarpriyo98@gmail.com
 
 <!---
