@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Al Shahriar Priyo</h1>
-<h3 align="center">I am a Junior Software Quality Assurance Engineer.</h3>
+<h3 align="center">I am a Software Quality Assurance Engineer @ **Brac IT Services**</h3>
 
-- 🔭 I’m currently working on **Flutter App testing**
+- 🔭 I’m currently working on **2 Management System Software and a response system Application** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShahriarPriyo](https://github.com/ShahriarPriyo)
 
